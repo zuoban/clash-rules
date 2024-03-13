@@ -1,4 +1,4 @@
-payload:
-  - '+.youtube.com'
-  - '+.google.com'
-  - '+.github.com'
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,youtu.be
+DOMAIN-KEYWORD,github
