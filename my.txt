@@ -1,0 +1,4 @@
+payload:
+  - '+.youtube.com'
+  - '+.google.com'
+  - '+.github.com'
