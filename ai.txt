@@ -1,0 +1,5 @@
+DOMAIN-KEYWORD,claude
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,ciciai.com
+DOMAIN-KEYWORD,coze
+DOMAIN-KEYWORD,anthropic
